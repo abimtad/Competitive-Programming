@@ -5,9 +5,9 @@ class Solution(object):
         :type indices: List[int]
         :rtype: str
         """
-        ans = ''
+        resored  = ''
 
         for idx in range(len(s)):
-            ans += s[indices.index(idx)]
-        return ans
+            resored += s[indices.index(idx)]
+        return resored
 
