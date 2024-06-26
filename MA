@@ -1,0 +1,16 @@
+leetCode_45
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Jun 17 19:46:03 2024 +0300
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   45-9_Palindrom_number.py
+#
+# Untracked files:
+#	../../Note.txt
+#

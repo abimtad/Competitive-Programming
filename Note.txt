@@ -1,0 +1,16 @@
+# Have a look at the functions iter() and next also what iterators acutally are and how to use them.
+# Have a look at this code:
+	from collections import Counter
+	class Solution(object):
+        def singleNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        cs=Counter(nums)
+        for key in cs.keys():
+            if cs[key]==1:
+                return key
+        return -1
+# 242 do it 
+# Learn about the python collection module.
