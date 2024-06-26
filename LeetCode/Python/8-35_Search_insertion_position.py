@@ -9,3 +9,4 @@ class Solution(object):
             if target <= num:
                 return idx
         return len(nums)
+
